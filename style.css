@@ -9,8 +9,6 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-   
- 
 }
 
 nav ul {
@@ -36,6 +34,8 @@ a {
     margin-top: 50px;
     display: flex;
     justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 8px;
     
 }
 
